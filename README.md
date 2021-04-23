@@ -1,3 +1,7 @@
+#add
+添加了GitHub直链
+
+
 # 请先阅读以下内容
 
 [![](https://img.shields.io/badge/made%20with-%e2%9d%a4-ff69b4.svg?style=flat-square)](#)
